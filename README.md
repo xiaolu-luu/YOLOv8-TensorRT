@@ -5,8 +5,8 @@ Deploy-YOLOv8-multitask
 
 <table>
     <tr>
-        <td><img src="data/result/car-detect-fp32.png" width="33%"></td>
-        <td><img src="data/result/car-segment-fp32.png" width="33%"></td>
-        <td><img src="data/result/car-pose-fp32.png" width="33%"></td>
+        <td><img src="data/result/car-detect-fp32.png" width="100%"></td>
+        <td><img src="data/result/car-segment-fp32.png" width="100%"></td>
+        <td><img src="data/result/car-pose-fp32.png" width="100%"></td>
     </tr>
 </table>
