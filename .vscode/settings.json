@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.cu": "cuda-cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "ostream": "cpp"
+    },
+    "cmake.ignoreCMakeListsMissing": true
+}
